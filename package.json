@@ -3,7 +3,7 @@
   "name": "locker",
   "description": "Full-featured client for locker lock server with timeouts support",
   "keywords": ["lock", "server", "locker", "async", "shared", "distributed"],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/bobrik/node-locker",
   "repository": {
     "url": "git@github.com:bobrik/node-locker.git"
